@@ -9,42 +9,6 @@ Partial Class [Default]
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles form1.Load
 
-        'Dim con As New SqlConnection(CWebGlobal.CadenaDeConexion)
-        'con.Open()
-
-        'Dim comando As New SqlCommand("Select * from Es_jugadores Where idJugador < 20", con)
-        'Dim reader As SqlDataReader = comando.ExecuteReader
-
-        ''If reader.HasRows Then
-
-        ''    Label1.Text = "Tiene Filas"
-
-        ''    Do While reader.Read()
-        ''        Dim etiqueta As New Label
-        ''        etiqueta.Text = reader("apodo")
-        ''        Panel1.Controls.Add(etiqueta)
-
-        ''        Dim saltoDeLinea As New LiteralControl
-        ''        saltoDeLinea.Text = "<br />"
-        ''        Panel1.Controls.Add(saltoDeLinea)
-        ''    Loop
-        ''Else
-        ''    Label1.Text = "No tiene filas"
-
-        ''End If
-
-        'con.Close()
-
-        'Dim jug1 As New CJugador("2", "Ronaldo")
-        'jug1.idJugador = 2
-        'jug1.apodo = "Rafinha"
-        'jug1.grabate()
-
-        'Dim jug2 As New CJugador
-        'jug1.idJugador = 0
-        'jug1.apodo = "Messi"
-        'jug1.grabate()
-
         'Caso de uso del metodo Recupera
         Dim listaJugadores As List(Of CJugador)
         listaJugadores = CJugador.Recupera()
