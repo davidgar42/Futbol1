@@ -1,0 +1,194 @@
+BBDD.sln
+BBDD/Bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+BBDD/Bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll.refresh
+BBDD/Bin/roslyn/Microsoft.CSharp.Core.targets
+BBDD/Bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+BBDD/Bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll.refresh
+BBDD/Bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+BBDD/Bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll.refresh
+BBDD/Bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+BBDD/Bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll.refresh
+BBDD/Bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+BBDD/Bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll.refresh
+BBDD/Bin/roslyn/Microsoft.CodeAnalysis.dll
+BBDD/Bin/roslyn/Microsoft.CodeAnalysis.dll.refresh
+BBDD/Bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+BBDD/Bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll.refresh
+BBDD/Bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+BBDD/Bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll.refresh
+        BBDD/Bin/roslyn/Microsoft.Managed.Core.targets
+        BBDD/Bin/roslyn/Microsoft.VisualBasic.Core.targets
+        BBDD/Bin/roslyn/Microsoft.Win32.Primitives.dll
+        BBDD/Bin/roslyn/Microsoft.Win32.Primitives.dll.refresh
+        BBDD/Bin/roslyn/System.AppContext.dll
+        BBDD/Bin/roslyn/System.AppContext.dll.refresh
+        BBDD/Bin/roslyn/System.Collections.Immutable.dll
+        BBDD/Bin/roslyn/System.Collections.Immutable.dll.refresh
+        BBDD/Bin/roslyn/System.Console.dll
+        BBDD/Bin/roslyn/System.Console.dll.refresh
+        BBDD/Bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+        BBDD/Bin/roslyn/System.Diagnostics.DiagnosticSource.dll.refresh
+        BBDD/Bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+        BBDD/Bin/roslyn/System.Diagnostics.FileVersionInfo.dll.refresh
+        BBDD/Bin/roslyn/System.Diagnostics.StackTrace.dll
+        BBDD/Bin/roslyn/System.Diagnostics.StackTrace.dll.refresh
+        BBDD/Bin/roslyn/System.Globalization.Calendars.dll
+        BBDD/Bin/roslyn/System.Globalization.Calendars.dll.refresh
+        BBDD/Bin/roslyn/System.IO.Compression.ZipFile.dll
+        BBDD/Bin/roslyn/System.IO.Compression.ZipFile.dll.refresh
+        BBDD/Bin/roslyn/System.IO.Compression.dll
+        BBDD/Bin/roslyn/System.IO.Compression.dll.refresh
+        BBDD/Bin/roslyn/System.IO.FileSystem.Primitives.dll
+        BBDD/Bin/roslyn/System.IO.FileSystem.Primitives.dll.refresh
+        BBDD/Bin/roslyn/System.IO.FileSystem.dll
+        BBDD/Bin/roslyn/System.IO.FileSystem.dll.refresh
+        BBDD/Bin/roslyn/System.Net.Http.dll
+        BBDD/Bin/roslyn/System.Net.Http.dll.refresh
+        BBDD/Bin/roslyn/System.Net.Sockets.dll
+        BBDD/Bin/roslyn/System.Net.Sockets.dll.refresh
+        BBDD/Bin/roslyn/System.Reflection.Metadata.dll
+        BBDD/Bin/roslyn/System.Reflection.Metadata.dll.refresh
+        BBDD/Bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+        BBDD/Bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll.refresh
+        BBDD/Bin/roslyn/System.Security.Cryptography.Algorithms.dll
+        BBDD/Bin/roslyn/System.Security.Cryptography.Algorithms.dll.refresh
+        BBDD/Bin/roslyn/System.Security.Cryptography.Encoding.dll
+        BBDD/Bin/roslyn/System.Security.Cryptography.Encoding.dll.refresh
+        BBDD/Bin/roslyn/System.Security.Cryptography.Primitives.dll
+        BBDD/Bin/roslyn/System.Security.Cryptography.Primitives.dll.refresh
+        BBDD/Bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+        BBDD/Bin/roslyn/System.Security.Cryptography.X509Certificates.dll.refresh
+        BBDD/Bin/roslyn/System.Text.Encoding.CodePages.dll
+        BBDD/Bin/roslyn/System.Text.Encoding.CodePages.dll.refresh
+        BBDD/Bin/roslyn/System.Threading.Tasks.Extensions.dll
+        BBDD/Bin/roslyn/System.Threading.Tasks.Extensions.dll.refresh
+        BBDD/Bin/roslyn/System.ValueTuple.dll
+        BBDD/Bin/roslyn/System.ValueTuple.dll.refresh
+        BBDD/Bin/roslyn/System.Xml.ReaderWriter.dll
+        BBDD/Bin/roslyn/System.Xml.ReaderWriter.dll.refresh
+        BBDD/Bin/roslyn/System.Xml.XPath.XDocument.dll
+        BBDD/Bin/roslyn/System.Xml.XPath.XDocument.dll.refresh
+        BBDD/Bin/roslyn/System.Xml.XPath.dll
+        BBDD/Bin/roslyn/System.Xml.XPath.dll.refresh
+        BBDD/Bin/roslyn/System.Xml.XmlDocument.dll
+        BBDD/Bin/roslyn/System.Xml.XmlDocument.dll.refresh
+        BBDD/Bin/roslyn/VBCSCompiler.exe
+        BBDD/Bin/roslyn/VBCSCompiler.exe.refresh
+        BBDD/Bin/roslyn/csc.exe
+        BBDD/Bin/roslyn/csc.exe.refresh
+        BBDD/Bin/roslyn/csc.rsp
+        BBDD/Bin/roslyn/csi.exe
+        BBDD/Bin/roslyn/csi.exe.refresh
+        BBDD/Bin/roslyn/csi.rsp
+        BBDD/Bin/roslyn/vbc.exe
+        BBDD/Bin/roslyn/vbc.exe.refresh
+        BBDD/Bin/roslyn/vbc.rsp
+        packages/Antlr.3.5.0.2/
+        packages/AspNet.ScriptManager.bootstrap.3.4.1/
+        packages/AspNet.ScriptManager.jQuery.3.7.0/
+        packages/EntityFramework.6.4.4/
+        packages/Microsoft.AspNet.FriendlyUrls.Core.1.0.2/
+        packages/Microsoft.AspNet.FriendlyUrls.Core.es.1.0.2/
+        packages/Microsoft.AspNet.Identity.Core.2.2.4/
+        packages/Microsoft.AspNet.Identity.Core.es.2.2.4/
+        packages/Microsoft.AspNet.Identity.EntityFramework.2.2.4/
+        packages/Microsoft.AspNet.Identity.EntityFramework.es.2.2.4/
+        packages/Microsoft.AspNet.Identity.Owin.2.2.4/
+        packages/Microsoft.AspNet.Identity.Owin.es.2.2.4/
+        packages/Microsoft.AspNet.Providers.Core.2.0.0/
+        packages/Microsoft.AspNet.Providers.Core.es.2.0.0/
+        packages/Microsoft.AspNet.ScriptManager.MSAjax.5.0.0/
+        packages/Microsoft.AspNet.ScriptManager.WebForms.5.0.0/
+        packages/Microsoft.AspNet.Web.Optimization.1.1.3/
+        packages/Microsoft.AspNet.Web.Optimization.WebForms.1.1.3/
+        packages/Microsoft.AspNet.Web.Optimization.es.1.1.3/
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/.signature.p7s
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.nupkg
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/lib/
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.Build.Tasks.CodeAnalysis.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CSharp.Core.targets
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.Scripting.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.VisualBasic.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.DiaSymReader.Native.amd64.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.DiaSymReader.Native.x86.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.VisualBasic.Core.targets
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.AppContext.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.Collections.Immutable.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.Diagnostics.StackTrace.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.IO.FileSystem.Primitives.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.IO.FileSystem.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.Reflection.Metadata.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/VBCSCompiler.exe
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.exe
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.rsp
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csi.exe
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csi.rsp
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.exe
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.rsp
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.Build.Tasks.CodeAnalysis.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CSharp.Core.targets
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.Scripting.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.VisualBasic.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.DiaSymReader.Native.amd64.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.DiaSymReader.Native.x86.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.Managed.Core.targets
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.VisualBasic.Core.targets
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.Win32.Primitives.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.AppContext.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Collections.Immutable.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Console.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Diagnostics.DiagnosticSource.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Diagnostics.FileVersionInfo.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Diagnostics.StackTrace.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Globalization.Calendars.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.Compression.ZipFile.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.Compression.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.FileSystem.Primitives.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.FileSystem.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Net.Http.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Net.Sockets.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Reflection.Metadata.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Runtime.InteropServices.RuntimeInformation.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.Algorithms.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.Encoding.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.Primitives.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.X509Certificates.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Text.Encoding.CodePages.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Threading.Tasks.Extensions.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.ValueTuple.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.ReaderWriter.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.XPath.XDocument.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.XPath.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.XmlDocument.dll
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/VBCSCompiler.exe
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.exe
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.rsp
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.exe
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.rsp
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.exe
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.rsp
+        packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/net45/
+        packages/Microsoft.Owin.4.2.2/
+        packages/Microsoft.Owin.Host.SystemWeb.4.2.2/
+        packages/Microsoft.Owin.Security.4.2.2/
+        packages/Microsoft.Owin.Security.Cookies.4.2.2/
+        packages/Microsoft.Owin.Security.Facebook.4.2.2/
+        packages/Microsoft.Owin.Security.Google.4.2.2/
+        packages/Microsoft.Owin.Security.MicrosoftAccount.4.2.2/
+        packages/Microsoft.Owin.Security.OAuth.4.2.2/
+        packages/Microsoft.Owin.Security.Twitter.4.2.2/
+        packages/Microsoft.Web.Infrastructure.2.0.0/
+        packages/Modernizr.2.8.3/
+        packages/Newtonsoft.Json.13.0.3/
+        packages/Owin.1.0/
+        packages/WebGrease.1.6.0/
+        packages/bootstrap.3.4.1/
+        packages/jQuery.3.7.0/
